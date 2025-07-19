@@ -22,7 +22,7 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/Mokamran5526/Brainwave_matrix_interntaskone
+$ https://github.com/ErAkramAnsari/Multimart_ecomerce_one.git
 
 # Go into the repository
 $ cd multimart-react-ecommerce
